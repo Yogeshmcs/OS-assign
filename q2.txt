@@ -1,0 +1,2 @@
+This question is on inter process communication and require to create child and communicate
+between them by creating pipes.
